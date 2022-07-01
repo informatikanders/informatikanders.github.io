@@ -7,7 +7,7 @@ categories: jekyll update
 
 yoyo in dieser Serie werde ich erläutern wie Computer (nicht Betriebssysteme!!!) richtig funktionieren. Wir fangen einfach an und enden komplex, jedoch wird das Komplexe einfach zu verstehen sein.
 Zuallererst definieren wir, was wir überhaupt benutzen, um Computer abzubilden.
-Wir benutzen in unserem Fall, da wir keine Elektrotechnik lernen, die Schaltalgebra.
+Wir benutzen die Schaltalgebra.
 Was ist die Schaltalgebra?
 
 Die Schaltalgebra besteht im Grunde genommen aus einer Menge der Zahlen [0,1].
