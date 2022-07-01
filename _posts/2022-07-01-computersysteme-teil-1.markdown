@@ -50,4 +50,8 @@ Fangen wir mit der Funktionstabelle an.
 
 Was ist eine Funktionstabelle?
 
-Eine Funktionstabelle ist eine Zusammenstellung aller möglichen Wertekombinationen der Eingangsvariablen und der zugehörigen Werte der Ausgangsvariablen
+Eine Funktionstabelle ist eine Zusammenstellung aller möglichen Wertekombinationen der Eingangsvariablen und der zugehörigen Werte der Ausgangsvariablen.
+
+Sind für alle möglichen Wertekombinationen der Eingangsvariablen, Werte für die Ausgangsvariablen festgelegt, dann spricht man von einer vollständigen Funktionstabelle. In einer unvollständigen Funktionstabelle ist nicht für jede mögliche Eingangskombination ein fester Wert der Ausgangsvariablen festgelegt.
+
+![](/assets/img/funktionstabelle.JPG)
