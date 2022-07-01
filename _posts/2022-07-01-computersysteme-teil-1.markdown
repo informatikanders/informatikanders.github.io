@@ -13,6 +13,8 @@ Was ist die Schaltalgebra?
 Die Schaltalgebra besteht im Grunde genommen aus einer Menge der Zahlen [0,1].
 Diese haben die Regeln der Bool'schen Algebra übernommen, die wir später erwähnen.
 
+![](/assets/img/Eigenschaften_boolsche_algebra.JPG)
+
 Am Anfang betrachten wir jetzt Schaltnetze.
 
 Was sind Schaltnetze?
@@ -30,3 +32,8 @@ Welche Eigenschaften charakterisieren die Schaltalgebra?
 3. Es gelten die Gesetze der Boolschen Algebra
 
 ![](/assets/img/Schaltzeichen.JPG)
+
+Da wir nun wissen was die Eigenschaften der Schaltalgebra und was Schaltnetze sind, können wir easy peasy ganz einfach Schaltnetze erstellen.
+Dabei gucken wir uns die Basisverknüpfungen an.
+
+![](/assets/img/grundverknüpfung.JPG)
