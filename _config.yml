@@ -20,8 +20,8 @@
 
 title: Informatik, anders
 description: >- # this means to ignore newlines until "baseurl:"
-  In diesem Blog erkläre ich euch alles zum Thema Informatik.
-  Das beinhaltet sowohl Programmieren, als auch andere Aspekte davon (Datenstrukturen, Computersysteme, Betriebssysteme, Mathematik, etc...)
+    Ein Blog in dem ich kurz und knapp versuche meine Gedankengänge über die Themen und Konzepte
+    der Informatik zu erklären.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
