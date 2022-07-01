@@ -22,3 +22,11 @@ Schaltnetz ist ein Schaltwerk, dessen Wert am Ausgang nur vom Wert am Eingang ab
 Wie können Schaltnetze entworfen werden?
 
 ![](/assets/img/Blockschaltbild.JPG)
+
+Welche Eigenschaften charakterisieren die Schaltalgebra?
+
+1. Es existiert eine Menge B = {0,1}
+2. Es existieren die Verknüpfungen (Operatoren) UND, ODER, NICHT
+3. Es gelten die Gesetze der Boolschen Algebra
+
+![](/assets/img/Schaltzeichen.JPG)
