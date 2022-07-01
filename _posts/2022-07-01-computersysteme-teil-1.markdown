@@ -37,3 +37,17 @@ Da wir nun wissen was die Eigenschaften der Schaltalgebra und was Schaltnetze si
 Dabei gucken wir uns die Basisverknüpfungen an.
 
 ![](/assets/img/grundverknüpfung.JPG)
+
+Somit haben wir jetzt die Möglichkeit aus diesen Grundverknüpfungen, die wichtigstens Verknüpfungen der Digitalelektronik zu bilden.
+
+![](/assets/img/verknüpfungen_digitalelektronik.JPG)
+
+Sofern so gut. Doch was machen wir jetzt weiter? Wie stellen wir das alles dar?
+
+Dazu haben wir 5 Möglichkeiten: Wir stellen das als Funktionstabelle, Funktionsgleichung, KV-Diagramm, Schaltzeichen oder Binäres Entscheidungsdiagramm dar.
+
+Fangen wir mit der Funktionstabelle an.
+
+Was ist eine Funktionstabelle?
+
+Eine Funktionstabelle ist eine Zusammenstellung aller möglichen Wertekombinationen der Eingangsvariablen und der zugehörigen Werte der Ausgangsvariablen
