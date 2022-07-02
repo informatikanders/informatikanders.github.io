@@ -67,3 +67,19 @@ Siehe folgendes Bild als Beispiel:
 Des Weiteren sind folgende Regeln hilfreich bei Umformungen von Schaltfunktionen:
 
 ![](umformung_schaltfunktionen.JPG)
+
+Wir gucken uns jetzt an, wie Schaltnetze in der Normalform dargestellt werden können.
+
+Es gibt zwei Möglichkeiten die Schaltnetze in der Noramlform darzustellen
+
+1.Disjunktive Normalform (DNF)
+2.Konjuktive Normalform (KNF)
+
+Worin unterscheiden sich die beiden?
+
+Die Disjunktive Normalform einer Schalfunktion ist eine Disjunktion (ODER-Verknüpfung) von Mintermen.
+Jeder Minterm ist dabei eine Konkjuktion, die jede Eingangsvariable negiert oder nicht negiert enthält.
+Besteht eine Schaltfunktion aus Disjunktionen von Konjuktionstermen, die nicht alle Eingangsvariablen enthalten, so spricht man von einer disjunktiven Form (DF).
+
+Die Konjuktive Normalform einer Schaltfunktion ist eine Konjuktion (UND-Verknüpfung) von Maxtermen. Jeder Maxterm ist dabei eine Disjunktion,
+die jede Eingangsvariable negiert oder nicht negiert enthält. Besteht eine Schaltfunktion aus Konjunktionen von Disjunktionstermen, die nicht alle Eingangsvariablen enthalten, so spricht man von einer konjunktiven Form (KF).
