@@ -99,3 +99,9 @@ Dabei sieht die Schaltfunktion der DNF wie folgt aus:
 Und die Schaltfunktion der KNF so:
 
 ![](/assets/img/schaltfunktion_knf.jpg)
+
+Als Nächstes betrachten wir die Karnaugh-Veitch-Diagramme, auch KV-Diagramme genannt.
+
+Diese Diagramme sind ein grafisches Tool zur Darstellung von Wertetabellen oder Schaltfunktionen.
+
+![](/assets/img/funktiontabelle_und_kvdiagramm.JPG)
