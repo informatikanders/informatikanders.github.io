@@ -91,3 +91,11 @@ So sieht eine Tabelle aus, die alle Kombinationen aus zwei Schaltvariablen zeigt
 So sieht eine Tabelle aus, die alle Kombinationen aus zwei Schaltvariablen zeigt und die möglichen Maxterme mit ihren zugehörigen Werten:
 
 ![](/assets/img/knf_tabelle.JPG)
+
+Dabei sieht die Schaltfunktion der DNF wie folgt aus:
+
+![](/assets/img/schaltfunktion_dnf.JPG)
+
+Und die Schaltfunktion der KNF so:
+
+![](/assets/img/schaltfunktion_knf.jpg)
