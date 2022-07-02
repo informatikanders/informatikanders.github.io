@@ -55,3 +55,11 @@ Eine Funktionstabelle ist eine Zusammenstellung aller möglichen Wertekombinatio
 Sind für alle möglichen Wertekombinationen der Eingangsvariablen, Werte für die Ausgangsvariablen festgelegt, dann spricht man von einer vollständigen Funktionstabelle. In einer unvollständigen Funktionstabelle ist nicht für jede mögliche Eingangskombination ein fester Wert der Ausgangsvariablen festgelegt.
 
 ![](/assets/img/funktionstabelle.JPG)
+
+Wie können wir Schaltnetze als Funktionsgleichung darstellen?
+
+Im Allgemeinen können wir diese als y = f(a,b,c) darstellen, dabei werden die Argumentvariablen mit Operatoren UND,ODER,NICHT verknüpft.
+
+Siehe folgendes Bild als Beispiel:
+
+![](/assets/img/Funktionsgleichung.JPG)
