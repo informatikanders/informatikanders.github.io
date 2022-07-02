@@ -83,3 +83,7 @@ Besteht eine Schaltfunktion aus Disjunktionen von Konjuktionstermen, die nicht a
 
 Die Konjuktive Normalform einer Schaltfunktion ist eine Konjuktion (UND-Verknüpfung) von Maxtermen. Jeder Maxterm ist dabei eine Disjunktion,
 die jede Eingangsvariable negiert oder nicht negiert enthält. Besteht eine Schaltfunktion aus Konjunktionen von Disjunktionstermen, die nicht alle Eingangsvariablen enthalten, so spricht man von einer konjunktiven Form (KF).
+
+So sieht eine Tabelle aus, die eine Kombination aus zwei Eingangsvariablen hat und die möglichen Minterme mit ihren zugehörigen Werten:
+
+![](/assets/img/dng_tabelle.JPG)
