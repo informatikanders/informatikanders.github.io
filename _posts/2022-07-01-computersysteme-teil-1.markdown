@@ -66,7 +66,7 @@ Siehe folgendes Bild als Beispiel:
 
 Des Weiteren sind folgende Regeln hilfreich bei Umformungen von Schaltfunktionen:
 
-![](umformung_schaltfunktionen.JPG)
+![](/assets/img/umformung_schaltfunktionen.JPG)
 
 Wir gucken uns jetzt an, wie Schaltnetze in der Normalform dargestellt werden können.
 
