@@ -63,3 +63,7 @@ Im Allgemeinen können wir diese als y = f(a,b,c) darstellen, dabei werden die A
 Siehe folgendes Bild als Beispiel:
 
 ![](/assets/img/Funktionsgleichung.JPG)
+
+Des Weiteren sind folgende Regeln hilfreich bei Umformungen von Schaltfunktionen:
+
+![](umformung_schaltfunktionen.JPG)
