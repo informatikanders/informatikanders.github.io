@@ -165,3 +165,25 @@ Es gibt verschiedene Verfahren, wie Gleichungen minimiert werden können.
 Grundlage aller Verfahren gelten folgende zwei Gesetze der Schaltalgebra:
 
 ![](/assets/img/zwei_gesetze.JPG)
+
+Die wichtigsten Verfahren lauten:
+
+- Anwendung der Gesetze der Schaltalgebra
+- KV-Diagramme
+- Methode von Quine-McCluskey
+
+Verfahren mit den Gesetzen der Schaltalgebra
+
+Hier kann durch Ausklammern von Variablen, Kürzen, Zusammenfassen, Anwendung der De Morganschen Gesetze eine Schaltfunktion vereinfacht werden.
+
+Beispiel:
+
+![](/assets/img/vereinfachung_gesetze.JPG)
+
+Verfahren mit KV-Diagramm:
+
+Dieses Verfahren ist grafisch. Wenn das KV-Diagramm eine Schaltfunktion in DNF darstellt, dann werden die benachbarten Felder, die mit 1 belegt sind, zusammengefasst. Wie findet die Zusammenfassung statt? Diese findet so statt, dass möglichst viele Einsen eingeschlossen werden. Dabei dürfen nur rechteckige
+Blöcke gebildet werden (das bedeutet, es dürfen nur eins, zwei, vier, acht usw. Felder entstehen). Felder der ersten
+und letzten Zeile aber gleicher Spalte sind benachbart und können in einem Block zusammengefasst werden; ebenso Felder der ersten und letzten Spalte
+aber gleicher Zeile. Die vereinfachte Schaltfunktion wird dann aus den Termen der zusammengefassten Blöcke und der übriggebliebenen Einzelfelder gebildet.
+Die Terme der zusammengefassten Blöcke enthalten nur die Variablen, die sich innerhalb eines Blockes nicht ändern.
