@@ -121,3 +121,23 @@ Das Gleiche kann man mit einer Schaltfunktion in KNF machen:
 Und anbei das Resultat (die Maxterme sind wie o.g. als 0 hinterlegt, der Rest wit mit 1 gefüllt):
 
 ![](/assets/img/kv_diagramm_knf.JPG)
+
+Wozu brauchen wir die KV-Diagramme?
+
+Diese werden später hilfreich sein beim Vereinfachen von Schaltfunktionen und bei der Übertragung einer Funktionstabelle in eine Funktionsgleichung.
+
+Jetzt kommen wir zur Darstellung durch Schaltzeichen.
+
+Warum brauchen wir Schaltzeichen?
+
+Einerseits um später  die technischen Systeme graphisch darzustellen und andererseits um mithilfe von der Schaltzeichen, die Systeme analysieren zu können.
+
+Gucken wir uns ein Beispiel an, wie wir eine Schaltfunktion, mithilfe der Schaltzeichen darstellen können:
+
+Die Schaltfunktion:
+
+![](/assets/img/funktion_schaltzeichen.JPG)
+
+dargestellt mithilfe von Schaltzeichen:
+
+![](/assets/img/schaltzeichen_system.JPG) 
