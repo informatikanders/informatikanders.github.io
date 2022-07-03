@@ -105,3 +105,19 @@ Als Nächstes betrachten wir die Karnaugh-Veitch-Diagramme, auch KV-Diagramme ge
 Diese Diagramme sind ein grafisches Tool zur Darstellung von Wertetabellen oder Schaltfunktionen.
 
 ![](/assets/img/funktiontabelle_und_kvdiagramm.JPG)
+
+Beispielsweise soll folgende Schaltfunktion in der DNF als KV-Diagramm gezeichnet werden:
+
+![](/assets/img/dnf_beispiel_kv.JPG)
+
+So sieht dann das Resultat aus (die Minterme sind wie o.g. als 1 hinterlegt, der Rest wird mit 0 gefüllt):
+
+![](/assets/img/kv_diagramm_dnf.JPG)
+
+Das Gleiche kann man mit einer Schaltfunktion in KNF machen:
+
+![](/assets/img/knf_beispiel_kv.JPG)
+
+Und anbei das Resultat (die Maxterme sind wie o.g. als 0 hinterlegt, der Rest wit mit 1 gefüllt):
+
+![](/assets/kv_diagramm_knf.JPG)
