@@ -120,4 +120,4 @@ Das Gleiche kann man mit einer Schaltfunktion in KNF machen:
 
 Und anbei das Resultat (die Maxterme sind wie o.g. als 0 hinterlegt, der Rest wit mit 1 gefüllt):
 
-![](/assets/kv_diagramm_knf.JPG)
+![](/assets/img/kv_diagramm_knf.JPG)
