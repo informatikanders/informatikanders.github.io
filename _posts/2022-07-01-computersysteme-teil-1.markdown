@@ -187,3 +187,19 @@ Blöcke gebildet werden (das bedeutet, es dürfen nur eins, zwei, vier, acht usw
 und letzten Zeile aber gleicher Spalte sind benachbart und können in einem Block zusammengefasst werden; ebenso Felder der ersten und letzten Spalte
 aber gleicher Zeile. Die vereinfachte Schaltfunktion wird dann aus den Termen der zusammengefassten Blöcke und der übriggebliebenen Einzelfelder gebildet.
 Die Terme der zusammengefassten Blöcke enthalten nur die Variablen, die sich innerhalb eines Blockes nicht ändern.
+
+Anbei ein KV-Diagramm, dass die Schaltfunktion in DNF darstellt und die mit 1 belegten Felder zusammenfasst:
+
+![](/assets/img/grafisch_kv_diagramm.JPG)
+
+Die vereinfachte Schaltfunktion lautet:
+
+![](/assets/img/vereinfachte_schaltfunktion_dnf.JPG)
+
+Jetzt ein KV-Diagramm, dass die Schaltfunktion in KNF darstellt und die mit 0 belegten Felder zusammenfasst:
+
+![](/assets/img/grafisch_knf_diagramm_kv.JPG)
+
+und anbei die vereinfachte Schaltfunktion:
+
+![](/assets/img/vereinfachte_schaltfunktion_knf.JPG)
