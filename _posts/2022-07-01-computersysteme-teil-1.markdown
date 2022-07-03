@@ -206,7 +206,7 @@ und anbei die vereinfachte Schaltfunktion:
 
 Die Vereinfachung mit KV-Diagrammen eignet sich bei Schaltfunktionen mit maximal 6 Schaltvariablen. Bei mehr als 6 Variablen, wird das Verfahren unübersichtlich.
 
-Dies ist wie folgt begründbar: Wenn durch redundante Variablen zusammenhangende Blöcke
+Dies ist wie folgt begründbar: Wenn durch redundante Variablen zusammenhängende Blöcke
 im KV-Diagramm entstehen sollen, dürfen in eine Koordinatenrichtung höchstens zwei Variablen abgetragen werden. Schaltfunktionen mit 6 Schaltvariablen
 erfordern ein dreidimensionales KV-Diagramm. Damit hat die optische Vorstellung ihre Grenze erreicht.
 
