@@ -203,3 +203,11 @@ Jetzt ein KV-Diagramm, dass die Schaltfunktion in KNF darstellt und die mit 0 be
 und anbei die vereinfachte Schaltfunktion:
 
 ![](/assets/img/vereinfachte_schaltfunktion_knf.JPG)
+
+Die Vereinfachung mit KV-Diagrammen eignet sich bei Schaltfunktionen mit maximal 6 Schaltvariablen. Bei mehr als 6 Variablen, wird das Verfahren unübersichtlich.
+
+Dies ist wie folgt begründbar: Wenn durch redundante Variablen zusammenhangende Blöcke
+im KV-Diagramm entstehen sollen, dürfen in eine Koordinatenrichtung höchstens zwei Variablen abgetragen werden. Schaltfunktionen mit 6 Schaltvariablen
+erfordern ein dreidimensionales KV-Diagramm. Damit hat die optische Vorstellung ihre Grenze erreicht.
+
+Im nächsten Teil werde ich euch das letzte Verfahren, Methode von Quine-McClucskey, vorstellen und darauffolgend werden wir verschiedene Arten von Schaltnetzen analysieren und synthetisieren.
