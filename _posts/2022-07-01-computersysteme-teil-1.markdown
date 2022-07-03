@@ -140,4 +140,28 @@ Die Schaltfunktion:
 
 dargestellt mithilfe von Schaltzeichen:
 
-![](/assets/img/schaltzeichen_system.JPG) 
+![](/assets/img/schaltzeichen_system.JPG)
+
+Kommen wir zur Minimierung der Schaltfunktionen.
+
+Wozu brauchen wir die?
+
+Die Minimierung benötigen wir, um redundante Terme in Schaltfunktionen zu entfernen, da diese aus der Sicht der Chiphersteller, extrem kostenaufwendig sind.
+
+Diese Terme können entfernt werden, da sich die Arbeitsweise der Chips bzw. später des Computers sich nicht verändert.
+
+Hier kommen die vorhin erwähnten Regeln der Minimierung ins Spiel.
+
+So ist beispielsweise folgende Funktionsgleichung:
+
+![](/assets/img/minimierung_gleichung.JPG)
+
+äquivalent zu folgender Gleichung:
+
+![](/assets/img/äquivalent_gleichung.JPG)
+
+Es gibt verschiedene Verfahren, wie Gleichungen minimiert werden können.
+
+Grundlage aller Verfahren gelten folgende zwei Gesetze der Schaltalgebra:
+
+![](/assets/img/zwei_gesetze.JPG)
