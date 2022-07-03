@@ -210,4 +210,4 @@ Dies ist wie folgt begründbar: Wenn durch redundante Variablen zusammenhängend
 im KV-Diagramm entstehen sollen, dürfen in eine Koordinatenrichtung höchstens zwei Variablen abgetragen werden. Schaltfunktionen mit 6 Schaltvariablen
 erfordern ein dreidimensionales KV-Diagramm. Damit hat die optische Vorstellung ihre Grenze erreicht.
 
-Im nächsten Teil werde ich euch das letzte Verfahren, Methode von Quine-McClucskey, vorstellen und darauffolgend werden wir verschiedene Arten von Schaltnetzen analysieren und synthetisieren.
+Im nächsten Teil werde ich euch das letzte Verfahren, Methode von Quine-McCluskey, vorstellen und darauffolgend werden wir verschiedene Arten von Schaltnetzen analysieren und synthetisieren.
